@@ -1,0 +1,17 @@
+.confirmation {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  margin: auto;
+  padding: 50px;
+}
+
+.confirmation_card {
+  margin: 30px;
+}
+
+.return {
+  color: #f2994a;
+  border-bottom: 2px solid #f2994a;
+  width: 100px;
+}

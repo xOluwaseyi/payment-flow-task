@@ -1,0 +1,32 @@
+.mainpage {
+  width: 50%;
+  margin: auto;
+}
+
+.mp__header {
+  padding: 40px 0;
+  color: #4e598c;
+}
+
+.payment_forms {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  margin: 20px 0;
+  align-items: center;
+  text-align: center;
+}
+
+.active {
+  width: 100%;
+  padding-bottom: 15px;
+  color: rgba(242, 153, 74, 1);
+  border-bottom: 8px solid rgba(242, 153, 74, 1);
+}
+
+.not_active {
+  padding-bottom: 15px;
+  width: 100%;
+  color: rgba(189, 189, 189, 1);
+  border-bottom: rgba(189, 189, 189, 1) 1px solid;
+}
